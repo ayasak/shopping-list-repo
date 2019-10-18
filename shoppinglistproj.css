@@ -1,0 +1,152 @@
+#shoppinglisttitle {
+font-family: 'Handlee', cursive;
+  text-align: center;
+  font-size: 70px;
+  background-color: #D6E7ED;
+  padding: 0% 3%;
+  float: center;
+}
+#wholeinput {
+  top: 10%;
+  margin: 3% 30%;
+  width: 50%;
+  float: center;
+
+}
+ol {
+  font-size: 20px;
+font-family: 'Handlee', cursive;
+
+
+}
+p {
+font-family: 'Handlee', cursive;
+
+}
+#full {
+font-family: 'Handlee', cursive;
+  font-weight: bold;
+  font-size: 35px;
+  text-align: center;
+  margin-top: 2%;
+  color: red;
+  text-decoration: underline;
+
+  
+}
+button {
+  background-color: white;
+font-family: 'Handlee', cursive;
+  font-weight: bold;
+  width: 14%;
+  height: 7%;
+  text-align: center;
+  position: relative;
+  border-color: black;
+
+}
+#dotlist {
+  top: 30%;
+  background-color: #F8F7C5;
+  position: absolute;
+  width: 38%;
+
+}
+#strawberry {
+  margin-top: 24%;
+  left: 19%;
+  position: absolute;
+}
+#banana {
+  margin-top: 15%;
+  left: 19%;
+  position: absolute;
+}
+#avocado {
+  margin-top: 9%;
+  left: 19%;
+  position: absolute;
+}
+#spinach {
+  margin-top: 13%;
+  left: 1%;
+  position: absolute;
+}
+#apple {
+  margin-top: 16%;
+  left: 85%;
+  position: absolute;
+}
+#lemon {
+  margin-top: 5%;
+  left: 9%;
+  position: absolute;
+}
+#banana {
+  margin-top: 5%;
+  left: 81%;
+  position: absolute;
+  width: 13%;
+}
+#grape {
+  margin-top: 9%;
+  left: 72%;
+  position: absolute;
+}
+#watermelon {
+  margin-top: 24%;
+  left: 71%;
+  position: absolute;
+}
+#coconut {
+  margin-top: 16%;
+  left: 11%;
+  position: absolute;
+}
+#carrot {
+  margin-top: 17%;
+  left: 77%;
+  position: absolute;
+}
+hr {
+  top: 50%;
+}
+#inputinstruct {
+  margin-top: 5.5%;
+  text-align: center;
+font-family: 'Handlee', cursive;
+margin-left: 32%;
+width: 10%;
+height: 3%;
+position: absolute;
+text-decoration: underline;
+
+}
+#numberinstruct {
+  margin-top: 5.5%;
+  text-align: center;
+font-family: 'Handlee', cursive;
+margin-left: 52%;
+width: 10%;
+height: 3%;
+position: absolute;
+text-decoration: underline;
+}
+#pepper {
+  margin-top: 23%;
+  left: 2%;
+  position: absolute;
+}
+#cuccumber {
+  margin-top: 26%;
+  left: 81%;
+  position: absolute;
+}
+#hrbottom {
+  margin-top: 34%;
+  border-color: grey;
+}
+#hrtop {
+  margin-top: 2%;
+  border-color: grey;
+}
